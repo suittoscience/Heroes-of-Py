@@ -1,2 +1,2 @@
-# Heroes-of-Py-HW
-HW Assignment 4
+# Heroes-of-Py
+Assignment 4
